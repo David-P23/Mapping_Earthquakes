@@ -1,7 +1,7 @@
 # Mapping_Earthquakes
 
 ## Overview
-In this analysis, the objective was to visualize data on earthquakes using several  
+In this visualization, the objective was to visualize data on earthquakes using several  
 interactive methods. The primary tools used here were GeoJSON and Mapbox as well as
 Javascript and HTML. These items were the perfect foundation for the dashboard
 displayed below.
